@@ -101,5 +101,3 @@ jobs:
 
     - name: Logout to Docker hub
       run: docker logout
-      
-  runs-on: self-hosted
